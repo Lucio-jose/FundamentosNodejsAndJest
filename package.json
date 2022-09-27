@@ -1,0 +1,16 @@
+{
+  "name": "FundamentosNodejsAndJest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Lucio-jose/FundamentosNodejsAndJest.git",
+  "author": "Lucio-jose <luciocanganjo2@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev":"nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
